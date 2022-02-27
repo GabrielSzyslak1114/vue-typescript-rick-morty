@@ -1,0 +1,12 @@
+.btn{
+    margin: 1.8rem;
+    background: var(--sky);
+    transition: .3s;
+
+    &:hover{
+        border: 1px solid var(--white);
+        transform:  scale(0.9);
+    }
+
+}
+
