@@ -6,7 +6,6 @@
         <h4>Type: {{character.type}}</h4>
         <h4>Status: {{character.status}}</h4>
     </section>
-
     <div class="isLoading" v-else>
         <h1>isLoading</h1>
     </div>
